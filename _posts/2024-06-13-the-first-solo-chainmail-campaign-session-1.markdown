@@ -111,7 +111,7 @@ I'll make the assumption that Grünfeld is a monster hunter of sorts, and go wit
 
 ```
 Who
-Rolling for two words on the Character Identity table, we get:
+Discover Meaning, Character Identity
 d100 = 62, Military
 d100 = 18, Creator
 ```
@@ -120,7 +120,7 @@ This makes me think that Grünfeld is dealing with an old sapper, or a medieval 
 
 ```
 What
-Rolling for two words on the Actions table, we get:
+Discover Meaning, Actions
 d100 = 28, Defend
 d100 = 97, Weapon
 ```
@@ -129,7 +129,7 @@ Something intelligent and capable of wielding weapons, like kobolds or goblins.
 
 ```
 Where
-Rolling for two words on the Locations table, we get:
+Discover Meaning, Locations
 d100 = 42, Full
 d100 = 68, Peaceful
 ```
@@ -138,7 +138,7 @@ This veteran sapper has a farm now, land of their own, and is enjoying a  relati
 
 ```
 Why
-Rolling for two words on the Actions table, we get:
+Discover Meaning, Actions
 d100 = 51, Imitate
 d100 = 43, Illness
 ```
