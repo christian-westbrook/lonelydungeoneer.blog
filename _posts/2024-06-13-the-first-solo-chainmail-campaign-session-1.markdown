@@ -11,21 +11,27 @@ I'm the Lonely Dungeoneer, and I use this space to document my solitary travels 
 
 # Session 0
 
-Let's begin with an objective. My primary goal in this campaign is to (nearly) legitimately raise a solo OD&D player character to the second level without using supplementary rules, such as [Scarlet Heroes](https://www.drivethrurpg.com/en/product/127180/scarlet-heroes?affiliate_id=3556094) for instance, to supercharge my character. I'll let you in on a secret, if you aren't already aware: OD&D is challenging! 
+Let's begin with an objective. My primary goal in this campaign is to (nearly) legitimately raise a solo OD&D player character to the second level without using supplementary rules, such as [Scarlet Heroes](https://www.drivethrurpg.com/en/product/127180/scarlet-heroes?affiliate_id=3556094) for instance, to supercharge my character.
 
-I've created and lost nearly a dozen parties now in the depths of black Gygaxian dungeons. They've been done in by mythical creatures (the latest were a pair of gargoyles, grrr), insidious traps, and even treachery! I have several other roleplaying titles lined up that I'm excited to play currently collecting dust on the shelf, but I can't rest now until I see *one single character* come back from the depths relatively intact, and with enough experience to reach the second level. I believe that, for my first time documenting a campaign in blog format, this will be a spectacularly paranoid dungeon  crawling affair.
+I've created and lost nearly a dozen parties now in the depths of black Gygaxian dungeons. They've been done in by mythical creatures (the latest were a pair of gargoyles, grrr), insidious traps, and even treachery.  I'll let you in on a secret, if you weren't already aware: OD&D is challenging!
+
+I have several other roleplaying titles lined up that I'm excited to play, but they're currently collecting dust on the shelf because I can't rest until I see even *one single character* come back from the depths relatively intact, and with enough experience to earn the second level. It's funny that this will be my first time to meticulously document a campaign in blog format, as I anticipate it to become a spectacularly paranoid dungeon crawling affair.
 
  ![img](https://upload.wikimedia.org/wikipedia/en/8/8e/D%26d_Box1st.jpg)
 
-This campaign will indeed employ [1974 Original D&D](https://www.drivethrurpg.com/en/product/28306/od-d-dungeons-dragons-original-edition-0e?affiliate_id=3556094) as its roleplaying system, sometimes described as 0e. I'm playing with the three little brown books, commonly referred to as 3LBB OD&D:
+This campaign will indeed employ the [1974 Original D&D](https://www.drivethrurpg.com/en/product/28306/od-d-dungeons-dragons-original-edition-0e?affiliate_id=3556094) rules as its roleplaying system, sometimes described as 0e. I'm playing with only the three little brown books, a playing style commonly referred to as 3LBB OD&D:
 
 Book I: Men & Magic  
 Book II: Monsters & Treasure  
 Book III: The Underworld & Wilderness Adventures
 
-Although roleplaying campaigns predate the release of OD&D, this set of rules was the first commercially available roleplaying game and serves as a landmark origin point for the hobby. 
+Although the famous early roleplaying campaigns predate the release of OD&D, this set of rules was the first commercially available roleplaying game and serves as a landmark origin point for the hobby. Learning to play is an act of archaeology. In fact, you'd be much better off to just buy one of its many retroclones instead ([Swords & Wizardry White Box](https://www.drivethrurpg.com/en/product/472437/swords-wizardry-white-box-rules?affiliate_id=3556094) is my personal favorite 3LBB clone).
 
-Men & Magic describes the kinds of player characters that could be played. There were originally only the Fighting-Man, the Magic-User, and the Cleric, and this is even an upgrade from the Hero and 
+Men & Magic describes the kinds of characters that could be played. These were originally only the Fighting-Man, the Magic-User, and the Cleric, and even this is an upgrade from the Hero and Wizard available in Chainmail. 
+
+There were also four mechanically meaningful ancestries to choose from. Dwarves are exceptional dungeoneers and the only characters able to wield the mythic +3 Magic Warhammer. Elves are class hybrids, given the ability to swap between the Fighting-Man and Magic-User classes from adventure to adventure along with a knack for finding hidden dwarves. Halflings are stealthy deadshots and humans are the only characters that can infinitely level.
+
+Monsters & Treasure provides a fairly complete bestiary of fantasy creatures to encounter and an assortment of magical items (some quite comical) to discover. The Underworld & Wilderness Adventures gives guidance on how to run adventures either in the overworld above or in the dungeons below.
 
 The 3LBB moniker distinguishes one kind of play from other campaigns played using any of OD&Ds official supplements:
 
@@ -34,21 +40,23 @@ The 3LBB moniker distinguishes one kind of play from other campaigns played usin
 [Book VI: Eldritch Wizardry](https://www.drivethrurpg.com/en/product/17176/od-d-supplement-iii-eldritch-wizardry-0e?affiliate_id=3556094)  
 [Book VII: Gods, Demi-gods, & Heroes](https://www.drivethrurpg.com/en/product/17177/od-d-supplement-iv-gods-demi-gods-heroes-0e?affiliate_id=3556094)  
 
-Of these, I've found that Greyhawk appears to be the most popular for contributing the Thief character class and variable weapon damage among other innovations. In this campaign we will stick to the original three books and Chainmail as our roleplaying system. Constraint breeds creativity!
+Of these, I've found that Greyhawk seems to be the most popular for contributing the Thief character class and variable weapon damage among other innovations. In this campaign we will stick to the original three books and Chainmail as our roleplaying system. Constraint breeds creativity!
 
-So what exactly is Chainmail, and why should we care about it?
+But what exactly is Chainmail, and why should we care about it?
 
-When reading through the recommended equipment listed in Men & Magic, you'll notice a requirement to own another set of rules. These rules, an earlier release by Jeff Peren and Gary Gygax known as Chainmail,  are actually a set of wargaming rules for medieval miniatures with a fast-playing take on mass combat.
+When reading through the recommended equipment listed in Men & Magic, you'll notice a requirement to own another set of rules. These rules, an earlier release by Jeff Peren and Gary Gygax known as [Chainmail](https://www.drivethrurpg.com/en/product/17010/chainmail-rules-for-medieval-miniatures-0e?affiliate_id=3556094),  are actually a set of wargaming rules for medieval miniatures with a fast-playing take on mass combat.
 
-These rules  interestingly included a Fantasy Supplement for running such fantastic  conflicts as The Battle of Five Armies, and we can realistically  consider OD&D to be an extension of the Chainmail rules. Now, rather than playing at the scale of warfare between hundreds, or even  thousands of units, you could play as one individual making independent  choices through a series of fantastic adventures!
+They also, interestingly, included a Fantasy Supplement for running such fantastic mass conflicts as The Battle of Five Armies. We can realistically  consider OD&D to be an extension of this supplement to the Chainmail rules. Its publishing made it possible to zoom in on one heroic individual making independent decisions in the middle of a larger fantasy universe.
 
-This all means  that OD&D depends heavily on Chainmail for combat resolution  mechanics. In fact, Chainmail provides three different combat systems,  and OD&D provides an alternative (that also heavily depends on  Chainmail), but the most interesting point here is that OD&D's  Alternative Combat System would go on to become the default and familiar d20 combat system in all future D&D titles! In this campaign we  will exclusively explore the three combat systems provided by Chainmail. This can all become confusing, but don't worry, I'll dive into relevant mechanics as we reach them!
+This heritage means that OD&D depends heavily on Chainmail for combat mechanics. In fact, Chainmail provides not one, but three different combat systems! The mass combat system is quick and dirty, the man-to-man system is cinematic, and the fantasy combat system is drawn out and heroic.
+
+OD&D itself also provides an Alternative Combat System (still very heavily dependent on Chainmail), but the more interesting point here is that this alternative would go on to become the familiar and default d20 combat system in all future D&D titles! In this campaign we will exclusively explore the three combat systems provided by Chainmail, and I'll dive into each of the mechanics as we reach them.
 
    ![img](https://upload.wikimedia.org/wikipedia/en/a/a1/Chainmail-1st-thumb.jpg)  
 
-Earlier I  described my leveling goal as 'nearly' legitimate because this time I  plan to fight dirty. First, with my latest wounds still feeling fresh,  I've just rolled an unmodified character that has an impressive  strength, wisdom, *and* charisma! Rest assured that we will put that charisma to good work,  searching far and  wide for the best possible crew of dungeoneers. I  have plans to use Mythic Magazine articles covering the "Gather a Crew"  trope and roleplaying a group solo to help make this happen.
+Earlier I described my leveling goal as 'nearly' legitimate, and that's because this time I plan to fight dirty. Firstly, with my latest wounds still feeling fresh, I've just generated an unmodified character with impressive scores in strength, wisdom, *and* charisma! Rest assured that we will put that charisma to good work,  searching far and wide for the best possible crew of dungeoneers rather than accepting the whims of chance in their random creation. I plan to use a [Mythic Magazine article](https://www.drivethrurpg.com/en/product/450013/mythic-magazine-volume-32?affiliate_id=3556094) covering the "Gather a Crew" trope to help make this happen.
 
-Next, because I'm dying to spend extended time with a megadungeon, I'm  planning to insert into our game world the knowingly friendly and yet  iconic Caverns of Thracia module by Paul Jaquays. I've never set foot in these caverns myself, but I've read about others' expeditions, and it  seems like a great module for giving low-level players an initial edge. 
+Next, because I'm dying to spend extended time with a megadungeon, I'm  planning to insert into our game world the knowingly friendly and yet iconic Caverns of Thracia module by Paul Jaquays. I've never set foot in these caverns myself, but I've read about others' expeditions, and it  seems like a great module for giving low-level players an initial edge. 
 
 It's important to note here that early roleplaying games tend to make  overworld, or wilderness, encounters far more dangerous than dungeon  encounters. The idea was to prove your mettle in the local dungeon  before venturing out into a wider world. This is the role that The  Caverns of Thracia will serve.
 
@@ -96,41 +104,49 @@ The Inspired  Idea First Scene is just what it sounds like. You've come up with 
 
 I'll make the assumption that Grünfeld is a monster hunter of sorts, and go  with the Inspired Idea of Grunfeld negotiating a new job. I'll roll for  the 4Ws to determine who's offering him a job, what they need removed,  where they need it removed from, and why they need it removed in the  first place.
 
+```
 Who
 Rolling for two words on the Character Identity table, we get:
 d100 = 62, Military
 d100 = 18, Creator
+```
 
 This makes me think that Grünfeld is dealing with an old sapper, or a medieval combat engineering expert. This fits in rather well with the setting implied by Chainmail. We can  immediately infer that this world has experienced war at a scale where  armies found it necessary to train and employ sappers for siege warfare.
 
+```
 What
 Rolling for two words on the Actions table, we get:
 d100 = 28, Defend
 d100 = 97, Weapon
+```
 
 Something intelligent and capable of wielding weapons, like kobolds or goblins.
 
+```
 Where
 Rolling for two words on the Locations table, we get:
 d100 = 42, Full
 d100 = 68, Peaceful
+```
 
 This veteran sapper has a farm now, land of their own, and is enjoying a  relatively quiet existence. Some nuisance has moved onto their land and is now disturbing a peace that they worked hard to build.
 
+```
 Why
 Rolling for two words on the Actions table, we get:
 d100 = 51, Imitate
 d100 = 43, Illness
+```
 
 Now this is quite a strange word pair. I think this means that the trespassing  creature has possibly already become violent, inducing an anxiety in our new veteran friend that feels similar to their experiences with crisis situations during war.
 
 Altogether, this is *plenty* of material to work with. Spot on once again, Mythic. Let's kick off our First Scene!
 
-Scene 1 - First Scene, Inspired Idea, 4Ws, CF 5
+## Scene 1 - First Scene, Inspired Idea, 4Ws, CF 5
 
-
-
+```
 Is the sapper an old man?
+```
 
 The text above is a question for the Oracle. I like to imagine Mythic being personified as something like Death from the PC dungeon crawling video game Fate, hovering invisibly by the table to answer our Fate Questions.
 
