@@ -27,7 +27,7 @@ Book III: The Underworld & Wilderness Adventures
 
 Although the famous early roleplaying campaigns predate the release of OD&D, this set of rules was the first commercially available roleplaying game and serves as a landmark origin point for the hobby. Learning to play is an act of archaeology. In fact, you'd be much better off to just buy one of its many retroclones instead ([Swords & Wizardry White Box](https://www.drivethrurpg.com/en/product/472437/swords-wizardry-white-box-rules?affiliate_id=3556094) is my personal favorite 3LBB clone).
 
-Men & Magic describes the kinds of characters that could be played. These were originally only the Fighting-Man, the Magic-User, and the Cleric, and even this is an upgrade from the Hero and Wizard available in Chainmail. 
+Men & Magic describes the kinds of characters that could be played. These were originally only the Fighting-Man, the Magic-User, and the Cleric, and even this is an upgrade from the Hero and Wizard available in Chainmail. Later supplements introduced new character classes, such as the Monk, Assassin, and Paladin.
 
 There were also four mechanically meaningful ancestries to choose from. Dwarves are exceptional dungeoneers and the only characters able to wield the mythic +3 Magic Warhammer. Elves are class hybrids, given the ability to swap between the Fighting-Man and Magic-User classes from adventure to adventure along with a knack for finding hidden dwarves. Halflings are stealthy deadshots and humans are the only characters that can infinitely level.
 
@@ -56,27 +56,27 @@ OD&D itself also provides an Alternative Combat System (still very heavily depen
 
 Earlier I described my leveling goal as 'nearly' legitimate, and that's because this time I plan to fight dirty. Firstly, with my latest wounds still feeling fresh, I've just generated an unmodified character with impressive scores in strength, wisdom, *and* charisma! Rest assured that we will put that charisma to good work,  searching far and wide for the best possible crew of dungeoneers rather than accepting the whims of chance in their random creation. I plan to use a [Mythic Magazine article](https://www.drivethrurpg.com/en/product/450013/mythic-magazine-volume-32?affiliate_id=3556094) covering the "Gather a Crew" trope to help make this happen.
 
-Next, because I'm dying to spend extended time with a megadungeon, I'm  planning to insert into our game world the knowingly friendly and yet iconic Caverns of Thracia module by Paul Jaquays. I've never set foot in these caverns myself, but I've read about others' expeditions, and it  seems like a great module for giving low-level players an initial edge. 
+Next, because I'm dying to spend extended time with a megadungeon, I'm  planning to insert into our game world the knowingly friendly and yet iconic Caverns of Thracia module by Paul Jaquays. I've never set foot in these caverns myself, but I've read about others' expeditions, and it seems like a great module for giving low-level players an initial edge. 
 
-It's important to note here that early roleplaying games tend to make  overworld, or wilderness, encounters far more dangerous than dungeon  encounters. The idea was to prove your mettle in the local dungeon  before venturing out into a wider world. This is the role that The  Caverns of Thracia will serve.
+It's important to note here that early roleplaying games tend to make wilderness encounters far more dangerous than dungeon  encounters. The idea was for parties to first prove their mettle in the local dungeon before venturing out into the wider world. This is the role that The Caverns of Thracia will serve in our campaign.
 
-Finally, I'm going to give my dungeoneers a slightly better fighting chance by  employing a well-known death and dismemberment table (they might  disagree with this being considered a benefit). My sincere hope is that  the combination of my roleplaying effort in assembling a tiger team, the presence of a canonical low-level megadungeon, and a last resort in the death and dismemberment table will give me all of the edge I need to  achieve my lifelong goal of legitimately (nearly) raising a solo player  character to the second level!
+Finally, I'm going to graciously provide my dungeoneers with a slightly better chance of survival by employing a well-structured [death and dismemberment table](https://www.drivethrurpg.com/en/product/376028/dmp7-critical-hits-and-wounds?affiliate_id=3556094) (they might disagree with this being considered a benefit). My sincere hope is that the combination of my roleplaying effort in assembling a tiger team, the presence of a canonical low-level megadungeon, and a last resort in the death and dismemberment table will give me all of the edge I need to achieve my lifelong goal of legitimately (nearly) raising a solo OD&D player character to the second level!
 
-As always, I'll be using Mythic as my solo roleplaying oracle. I truly  cannot recommend Mythic enough. In this campaign we'll use the Mythic  Game Master Emulator 2e with a number of advanced variations. I'll refer to these options along the way.
+As always, I'll be using Mythic as my solo roleplaying oracle. This is *the* solo roleplaying system to own, and I truly cannot recommend it enough. In this campaign we'll use the [Mythic  Game Master Emulator 2e](https://www.drivethrurpg.com/en/product/422929/mythic-game-master-emulator-second-edition?affiliate_id=3556094) along with an assortment of advanced variations and options taken from the Mythic ecosystem. I'll refer to these options along the way as they come up.
 
 ![The_Caverns_of_Thracia](https://upload.wikimedia.org/wikipedia/en/b/bc/The_Caverns_of_Thracia.jpg)
 
-Without further ado, let's dive into the actual play!
+And now, with an introduction out of the way, let's dive into the actual play!
 
 # Session 1
 
-## Adventure 1: The Caverns of Thracia (Presumably)
+## Adventure 1
 
 ## Character Creation
 
-Grünfeld (I'll drop the umlaut sometimes for ease of typing) is a cleric of the Van Helsing variety as inspired by early Dave Arneson campaigns. I'm envisioning him as a monster hunter, perhaps just barely scraping by,  before finding and latching on to the insane idea to form an expedition into a dungeon. While I plan to build an entire dungeoneering party over the course of the adventure, I'll consider Grünfeld to be my primary player character. I named him after my current favorite chess opening.
+Grünfeld (I'll drop the umlaut sometimes for ease of typing) is a cleric of the Van Helsing variety as inspired by the early Dave Arneson campaigns. I'm envisioning him as a monster hunter, perhaps just barely scraping by financially, before finding and latching on to the insane idea to form an expedition and explore a dungeon. While I plan to build up an entire dungeoneering party, I'll consider Grünfeld to be my primary player character. His name comes from my current favorite chess opening.
 
-I was honestly coming into this campaign quite prepared to roll and  reroll until I found exactly the character I wanted (no, I'm not bitter  about losing my last party, so stop asking), but to my delight the very  first character rolled was so great that I had to keep it, immediately  forming the protagonist of a new campaign! As outlined in OD&D, each of his ability scores is randomly determined by a roll of 3d6.
+I was honestly coming into this campaign prepared to roll and reroll ability scores until I found exactly the character I wanted (no, I'm not bitter about losing my last party, so stop asking), but to my delight the very first character rolled was so great that I had to keep him! I immediately made him the protagonist of a new campaign and decided to blog the new attempt at glory. As outlined in OD&D, each of his ability scores were randomly determined by an unmodified roll of 3d6.
 
 ```
 New Original D&D Character
@@ -86,15 +86,13 @@ STR: 3d6 = 16!
 INT: 3d6 = 8 
 WIS: 3d6 = 17! 
 CON: 3d6 = 13 
-DEX: 3d6 =10 
-CHA: 3d6 =15!
+DEX: 3d6 = 10 
+CHA: 3d6 = 15!
 ```
 
-I should mention here briefly that I will *never,* under *any* circumstance, fudge dice. If I don't like something I could possibly throw it out  (there's a structured way to do this fairly), but I'll communicate the  choice to subvert the dice rather than fudging a roll to get the outcome I want.
+I should mention here briefly that I will *never,* under *any* circumstance, fudge dice. If I don't like something I could possibly throw it out (there's a structured way to do this fairly we could possibly steal from the older book [Mythic Roleplaying](https://drivethrurpg.com/en/product/16173/mythic-role-playing?affiliate_id=35560)), but I'll communicate the choice to subvert the dice along with their actual result rather than fudging rolls to achieve the outcome that I want. My poor pride couldn't handle a victory won this way.
 
-Original D&D  provides exactly three classes: the Fighting-Man, the Magic-User, and  the Cleric. As mentioned earlier, the Thief was introduced in the first  supplement, Greyhawk. Later supplements introduced new character  classes, such as the Monk, Assassin, and Paladin. The official Dragon  magazine, along with its predecessor The Strategic Review, also  introduced new character classes such as the Ranger and the Bard.
-
-Playing with only three character classes keeps things simple, but it also  heightens the challenge. A more well rounded group of character classes would likely be a benefit to a party of dungeoneers. I chose the Cleric character class for Grünfeld based on his high Wisdom score and on the character concept I had in mind. Grünfeld taking on the Cleric class provides hybrid flexibility, him being capable of standing his ground in melee combat while also potentially learning to cast at higher levels.
+As mentioned earlier, Original D&D  provides exactly three classes. This keeps things simple, but also heightens the challenge. A more well rounded group of character classes would likely be a benefit to a party of dungeoneers. I chose the Cleric character class for Grünfeld based on his high Wisdom score and on the character concept I had in mind. Grünfeld taking on the Cleric class provides hybrid flexibility, him being capable of standing his ground in melee combat while also potentially learning to cast at higher levels.
 
 Each class designates one ability score as its *prime requisite*, a score of special importance that applies either a bonus or penalty to experience gained based. Grünfeld will net a 10% bonus to all XP gained in either the Cleric or Fighting-Man classes for having a score of 15+ in their prime requisites (Wisdom and Strength, respectively). He can even potentially swap between these classes for having scores of 16+!  Grünfeld's intelligence score, however, would result in a penalty of -10% to experience gained in the Magic-User class.
 
