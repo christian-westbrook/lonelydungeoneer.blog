@@ -90,7 +90,7 @@ DEX: 3d6 = 10
 CHA: 3d6 = 15!
 ```
 
-I should mention here briefly that I will *never,* under *any* circumstance, fudge dice. If I don't like something I could possibly throw it out (there's a structured way to do this fairly we could possibly steal from the older book [Mythic Roleplaying](https://drivethrurpg.com/en/product/16173/mythic-role-playing?affiliate_id=35560)), but I'll communicate the choice to subvert the dice along with their actual result rather than fudging rolls to achieve the outcome that I want. My poor pride couldn't handle a victory won this way.
+I should mention here briefly that I will *never,* under *any* circumstance, fudge dice. If I don't like something I could possibly throw it out (there's a structured way to do this fairly we could possibly steal from the older book [Mythic Roleplaying](drivethrurpg.com/en/product/16173/mythic-role-playing?affiliate_id=3556094)), but I'll communicate the choice to subvert the dice along with their actual result rather than fudging rolls to achieve the outcome that I want. My poor pride couldn't handle a victory won this way.
 
 As mentioned earlier, Original D&D  provides exactly three classes. This keeps things simple, but also heightens the challenge. A more well rounded group of character classes would likely be a benefit to a party of dungeoneers. I chose the Cleric character class for Grünfeld based on his high Wisdom score and on the character concept I had in mind. Grünfeld taking on the Cleric class provides hybrid flexibility, him being capable of standing his ground in melee combat while also potentially learning to cast at higher levels.
 
