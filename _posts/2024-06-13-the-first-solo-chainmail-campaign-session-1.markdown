@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The First Solo Chainmail Campaign! Session 1"
+title:  "The First Solo Chainmail Campaign! Session 1 - The Sapper's Suffering"
 date:   2024-06-13 22:20:14 -0500
 categories: jekyll update
 published: true
