@@ -101,7 +101,7 @@ As mentioned earlier, OD&D provides exactly three classes. This keeps things sim
 
 Grünfeld would net a 10% bonus to all XP gained in either the Cleric or Fighting-Man classes for having a score of 15+ in their prime requisites (Wisdom and Strength, respectively). He can even potentially swap between these classes for having scores of 16+!  Grünfeld's intelligence, however, would result in a penalty of -10% to experience gained in the Magic-User class.
 
-I chose the Cleric character class for Grünfeld based on his high Wisdom score and on the character concept I had in mind. Grünfeld being a Cleric provides hybrid flexibility, him being capable of either standing his ground in melee combat or potentially casting spells from a distance at higher levels. 
+I chose the Cleric character class for Grünfeld based on his high Wisdom score and on the character concept I had in mind. Grünfeld being a Cleric provides hybrid flexibility, him being capable of either standing his ground in melee combat or potentially casting spells from a distance at higher levels. I'll also choose the human ancestry, being too drawn towards a chance at near immortality to give up infinite leveling.
 
 I want to start the campaign by exploring Grünfeld as a character before he learns about the caverns and plans an expedition. In Mythic terms, we need a First Scene! Mythic GME 2e gives a few different options for coming up with a First Scene, and I plan to combine two of its approaches to craft ours: the Inspired Idea, and the 4Ws method.
 
