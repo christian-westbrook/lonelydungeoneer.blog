@@ -9,6 +9,11 @@ Hail, and well met!
 
 I'm the Lonely Dungeoneer, and I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games. This blog captures session one of *The First Solo Chainmail Campaign*, an entirely solo Original Dungeons & Dragons campaign and actual play using Chainmail to resolve combats!
 
+# Table of Contents
+
+1. [Session 0](#session-0)
+2. [Session 1](#session-1)
+
 # Session 0
 
 Let's begin with an objective. My primary goal in this campaign is to (nearly) legitimately raise a solo OD&D player character to the second level without using supplementary rules, such as [Scarlet Heroes](https://www.drivethrurpg.com/en/product/127180/scarlet-heroes?affiliate_id=3556094) for instance, to supercharge my character.
