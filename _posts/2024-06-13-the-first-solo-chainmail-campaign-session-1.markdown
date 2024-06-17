@@ -1,13 +1,19 @@
 ---
 layout: post
 title:  "The First Solo Chainmail Campaign! Session 1 - The Sapper's Suffering"
-date:   2024-06-13 22:20:14 -0500
-categories: jekyll update
+date:   2024-06-13 23:00:00 -0600
+categories: od&d
 published: true
 ---
-Hail, and well met! 
+Hail, and well met!
 
-I'm the Lonely Dungeoneer, and I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games. This blog captures session one of *The First Solo Chainmail Campaign*, an entirely solo Original Dungeons & Dragons campaign and actual play using Chainmail to resolve combats!
+I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games. This blog captures session two of *The First Solo Chainmail Campaign*, where I'm using the [Mythic Game Master Emulator](https://www.drivethrurpg.com/en/product/422929/mythic-game-master-emulator-second-edition?affiliate_id=3556094) to run an entirely solo [Original Dungeons & Dragons](https://www.drivethrurpg.com/en/product/28306/od-d-dungeons-dragons-original-edition-0e?affiliate_id=3556094) actual play using [Chainmail](https://www.drivethrurpg.com/en/product/17010/chainmail-rules-for-medieval-miniatures-0e?affiliate_id=3556094) to resolve combats!
+
+This is a fairly detailed actual play. If you're new to the hobby, I want you to know that this level of detail is far from the typical notetaking that occurs during a solo roleplaying session. These actual plays are recorded in this format for entertainment purposes. Please don't feel compelled to spell everything out like I have, or even to take notes at all!
+
+I sincerely hope you enjoy this collision of a modern solo roleplaying system with the original fantasy roleplaying game. Now, let's dive into the actual play! Happy delving, and **fight on!**! 
+
+*~ The Lonely Dungeoneer*
 
 # Table of Contents
 
@@ -34,7 +40,7 @@ Although the famous early roleplaying campaigns predate the release of OD&D, thi
 
 Men & Magic describes the kinds of characters that could be played. These were originally only the Fighting-Man, the Magic-User, and the Cleric, and even this is an upgrade from the Hero and Wizard available in Chainmail. Later supplements introduced new character classes, such as the Monk, Assassin, and Paladin.
 
-There were also four mechanically meaningful ancestries to choose from. Dwarves are exceptional dungeoneers and the only characters able to wield the mythic +3 Magic Warhammer. Elves are class hybrids, given the ability to swap between the Fighting-Man and Magic-User classes from adventure to adventure along with a knack for finding hidden dwarves. Halflings are stealthy deadshots and humans are the only characters that can infinitely level.
+There were also four mechanically meaningful ancestries to choose from. Dwarves are exceptional dungeoneers and the only characters able to wield the mythic +3 Magic Warhammer. Elves are class hybrids, given the ability to swap between the Fighting-Man and Magic-User classes from adventure to adventure along with a knack for finding hidden doors. Halflings are stealthy deadshots and humans are the only characters that can infinitely level.
 
 Monsters & Treasure provides a fairly complete bestiary of fantasy creatures to encounter and an assortment of magical items (some quite comical) to discover. The Underworld & Wilderness Adventures gives guidance on how to run adventures either in the overworld above or in the dungeons below.
 
@@ -67,7 +73,7 @@ It's important to note here that early roleplaying games tend to make wilderness
 
 Finally, I'm going to graciously provide my dungeoneers with a slightly better chance of survival by employing a well-structured [death and dismemberment table](https://www.drivethrurpg.com/en/product/376028/dmp7-critical-hits-and-wounds?affiliate_id=3556094) (they might disagree with this being considered a benefit). My sincere hope is that the combination of my roleplaying effort in assembling a tiger team, the presence of a canonical low-level megadungeon, and a last resort in the death and dismemberment table will give me all of the edge I need to achieve my lifelong goal of legitimately (nearly) raising a solo OD&D player character to the second level!
 
-As always, I'll be using Mythic as my solo roleplaying oracle. This is *the* solo roleplaying system to own, and I truly cannot recommend it enough. In this campaign we'll use the [Mythic  Game Master Emulator 2e](https://www.drivethrurpg.com/en/product/422929/mythic-game-master-emulator-second-edition?affiliate_id=3556094) along with an assortment of advanced variations and options taken from the Mythic ecosystem. I'll refer to these options along the way as they come up.
+As always, I'll be using Mythic as my solo roleplaying oracle. This is *the* solo roleplaying system to own, and I truly cannot recommend it enough. In this campaign we'll use the [Mythic Game Master Emulator 2e](https://www.drivethrurpg.com/en/product/422929/mythic-game-master-emulator-second-edition?affiliate_id=3556094) along with an assortment of advanced variations and options taken from the Mythic ecosystem. I'll refer to these options along the way as they come up.
 
 ![The_Caverns_of_Thracia](https://upload.wikimedia.org/wikipedia/en/b/bc/The_Caverns_of_Thracia.jpg)
 
@@ -182,6 +188,13 @@ Jaddoc
 ```
 
 Interpreting the location result as a dock, I found the name Jaddoc. I'll add *Jaddoc the Sapper* now to our Characters List, which is a list of characters relevant to the current adventure used by Mythic to inform certain Random Events.
+
+```
+Characters List
+1-2 Jaddoc the Sapper
+```
+
+I'd now like to know a little more about who Jaddoc is.
 
 ```
 Is Jaddoc a demi-human?
@@ -361,7 +374,7 @@ Disposition: Active +2
 
 So Jaddoc is going to take an active action related to the current context. We're currently discussing the number of kobold sightings that have happened on his land, so I think Jaddoc wants to let Grünfeld in on all of the details about what's happened thus far. Jaddoc may be wary of hiring Grünfeld, but he's eager to share his experiences.
 
-For Jaddoc to tell Grünfeld what's happened on his farm, we need to randomly generate everything that's already happened. I'll make this easier by leveraging another Mythic resource. Mythic Magazine Compilation #2 has an article called Generating Compelling Backstories that gives a fun procedure for quickly coming up with the backstory for anything in your campaign. In this case, we'll use the Backstory Focus Table to generate a backstory for ongoing developments at Jaddoc's farm.
+For Jaddoc to tell Grünfeld what's happened on his farm, we need to randomly generate everything that's already happened. I'll make this easier by leveraging another Mythic resource. [Mythic Magazine Compilation #2](https://www.drivethrurpg.com/en/product/394527/mythic-magazine-compilation-2?affiliate_id=3556094) has an article called Generating Compelling Backstories that gives a fun procedure for quickly coming up with the backstory for anything in your campaign. In this case, we'll use the Backstory Focus Table to generate a backstory for ongoing developments at Jaddoc's farm.
 
 Each roll on the Backstory Focus Table is like an Event Focus roll for a Random Event. Once we have a Backstory Focus, we'll roll for a word pair and interpret everything to generate an event that happened. We'll keep doing this until we've either rolled the result Complete, meaning our backstory is finished, or until we've rolled seven times.
 
@@ -397,7 +410,7 @@ If you'd like to support the blog, there are a few options for doing so. All of 
 
 If you have any feedback or comments about the campaign, feel free to reach out any time at thelonelydungeoneer@proton.me!
 
-Until we meet again, happy delving, and
+Until we meet again, happy delving, and **fight on!!**
 
-FIGHT ON!
+*~ The Lonely Dungeoneer*
 
