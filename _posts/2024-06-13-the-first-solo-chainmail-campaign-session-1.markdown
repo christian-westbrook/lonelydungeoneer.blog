@@ -2,7 +2,8 @@
 layout: post
 title:  "The First Solo Chainmail Campaign! Session 1 - The Sapper's Suffering"
 date:   2024-06-13 23:00:00 -0600
-categories: od&d
+categories: session
+tags: od&d mgme2e
 published: true
 ---
 Hail, and well met!
