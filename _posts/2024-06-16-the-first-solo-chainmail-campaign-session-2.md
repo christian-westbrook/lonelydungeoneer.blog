@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The First Solo Chainmail Campaign! Session 2 - The Sapper's Suffering"
+title:  "The First Solo Chainmail Campaign! Session 2 - Social Influence"
 date:   2024-06-16 22:20:14 -0600
 categories: od&d
 published: false
@@ -133,9 +133,9 @@ This especially makes sense if the kobolds were too focused on their goal of ste
 
 > Jaddoc: "Once we realized that it wasn't us, but the cattle rather, that the little figures were chasin', we crested a hill and tried to get a good look at 'em."
 
-Neither OD&D nor Chainmail describes or visualizes kobolds. In fact, each lumps kobolds together closely with goblins, for which no textual description of appearance is given, but we do have access to art portraying a goblin in OD&D!
+Neither OD&D nor Chainmail describes or visualizes kobolds. In fact, each lumps kobolds together closely with goblins, for which no textual description of appearance is given, but we do have access to art portraying a goblin in OD&D! You'll find a brief history of goblin art of the years in a recent [Grognardia blog post](https://grognardia.blogspot.com/2024/06/a-very-partial-pictorial-history-of_01836066687.html) if you're interested.
 
-![image-20240617143529839](C:\Users\Chris\AppData\Roaming\Typora\typora-user-images\image-20240617143529839.png)
+![goblin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF_iP1qR4aGkoF6y6l0x-FN6kZ5sVPTvhFbT0ZQCtgvX8ZNR0QskiyfjaBotKkqN_krokDXTSYoL96Au6qfkLZBe3UVJ9w8tH61Q0NPE_bW8gPJNvgYyWFHIRPdGDBO80ORRjXiGgGt-mGgMj_rv-emobzoj_AiGefMXPqawNF73p1inkHNin__6YhMWgC/s16000/oddgoblin.jpg)
 
 Goblins appear very similarly to dwarves and kobolds can be inferred to be a smaller form of goblin. We can actually use Fate Questions to allow the Oracle to fill in the gaps in our knowledge about kobolds in this particular fantasy universe.
 
@@ -231,8 +231,124 @@ This is so deliciously unwieldy that I basically am required to use it as my pro
 Grünfeld
 CHA: 15
 
-Ability Check
+Ability Check, Charisma
 d100 = 79 + 15 = 94, d12
 d12 = 2! * 15 = 30%
 d100 = 08!! Yes
 ```
+
+Ohhhh my goodness, I was so shocked to roll a 2 in the second step for a 30% chance of success and then to roll an 8 under it!! Wowww, that was a crazy moment. So Grünfeld will succeed in his attempt at social influence, which has a very specific meaning when you're using Simplified Behavior Checks. There's another Mythic Magazine article (also available in [Mythic Magazine Compilation #2](https://www.drivethrurpg.com/en/product/394527/mythic-magazine-compilation-2?affiliate_id=3556094)) called "RPG Social Skills With Mythic's Behavior Check" that breaks it down.
+
+The first outcome is a shift in Jaddoc's disposition. I can choose to apply either a +2 or -2 modifier to Jaddoc's Disposition, in effect calming or inciting his mood. I think here we want Jaddoc to feel comfortable with our character's propositions, so I'll choose to reduce his Disposition by 2.
+
+```
+Jaddoc Disposition: 10
+Social Skill Modifier: -2
+Jaddoc New Disposition: 8
+```
+
+We're also changing the context of the discussion here. We were discussing what's happened on Jaddoc's land with the kobolds, but now we're stepping into a discussion about finding a solution.  This is exactly what Jaddoc needs, and so he's really invested in this conversation. I imagine that our Context Modifier will remain +2, representing the conversation pushing Jaddoc towards action despite our social skill.
+
+```
+Jaddoc Context Modifier: +2
+Jaddoc Modified Disposition: 8 + 2 = 10, Passive
+```
+
+Our successful Charisma Check has already had a tangible impact on the situation. Jaddoc's overall Disposition just shifted from Active to Passive, even in the new context. This is going to be great for future Behavior Checks. That's mechanically, of course. Narratively, this represents Grünfeld disarming Jaddoc's paranoia ever so slightly.
+
+Finally, when we roll the next Behavior Check to see how Jaddoc will respond, we can apply a modifier anywhere from -2 to +2 to our result, effectively giving us the ability to choose a result within a range from the NPC Action Table. No matter what range is available to choose from, Jaddoc's next action has to somehow incorporate what we want.
+
+Altogether, these modifiers represent the benefits of success in social influence. I've found that it all works out really well in solo play. Let's make the final roll to see it in action.
+
+```
+Jaddoc Behavior Check
+Disposition: 8
+Context Modifier: +2
+Modified Disposition: 8 + 2 = 10, Passive -2
+2d10 = 9 + 7 = 16 - 2 = 14, Seeks to end the encounter
+```
+
+Our range of available results includes 'Gives Something', which to me could mean that Jaddoc is already prepared to give Grünfeld a job. I'll apply a Social Skill Modifier of -1 to make it happen.
+
+```
+Social Skill Modifier: -1 (Chosen)
+Behavior Check = 14 - 1 = 13, Gives Something
+```
+
+> Jaddoc leans back in his seat, uncrossing his arms. He, too, looks out the nearby windows at a group of cows happily chewing cud.
+>
+> Jaddoc: "That's right, stranger. I want that piece of mind again that drew me to these hills in the first place."
+>
+> Jaddoc turns his head to face Grünfeld again.
+>
+> Jaddoc: "What do you propose?"
+
+There are a few ways we could play this. Ultimately, I think we'll need to scout out where the kobolds live before we can come up with a plan for keeping them away from Jaddoc's farm. It would be useful, though, to first understand if Grünfeld's monster hunting background has granted him any special knowledge of Kobolds. His intelligence is below average, which will play against him here, but I'd still like to try for it just in case.
+
+```
+Grünfeld
+INT: 8
+
+Ability Check, Charisma
+d100 = 18, d4
+```
+
+Well, we're sure off to a great start here!
+
+```
+d4 = 4! * 8 = 32%
+```
+
+Woot, at least we rolled the highest possible result on our d4! Here goes nothing!
+
+```
+d100 = 57, No
+```
+
+You can only get so lucky, I suppose. So Grünfeld doesn't have any special knowledge of kobolds, but rather knows what anyone from that area might generally know about them. Does he know a guy, though? I think this is quite unlikely, and rather something we'll need to roleplay to find, but here goes nothing!
+
+```
+Does Grünfeld have a contact that can get him info on monsters?
+
+Fate Check
+Odds: Nearly Impossible -4
+CF: 5 +0
+2d10 = 10 + 4 = 14 - 4 = 10, No
+```
+
+Wowww that was so very close! But alas, Grünfeld has only his instincts as a monster hunter to rely on.
+
+> Grünfeld: "Well, before trying anything serious, I'd first like to get a lay of your land. I'd want to scout out the kobolds to see if they have a lair nearby. It would be different if they had wandered here from further away. 
+>
+> I'm not especially familiar with how kobolds live and work, but if I could find and observe them for some short time, I'm confident that we could come up with a plan to remove them from the region. And, at any rate, this kind of information could prove valuable to you in defending your farm."
+
+We already know that Jaddoc is going to give us a job, so let's see if it's for an initial scouting effort before forming a plan.
+
+```
+Does Jaddoc hire Grünfeld to scout the kobolds in the region?
+
+Fate Check
+Odds: 50/50 +0
+CF: 5 +0
+2d10 = 15, Yes
+```
+
+Very nice! OD&D gives us some guidance on handling hirelings or retainers that we could use to inform the price Jaddoc and Grünfeld agree to. According to Men & Magic we can hire retainers, becoming active members of our adventuring party, for around 100 gold pieces. I'm assuming that this amount of gold is good for about one expedition lasting about one week. 
+
+This task is like a light expedition, so I'll guess that 80 gold pieces is more befitting of the situation. We can also infer that Jaddoc is watching his finances closely at the moment, given recent losses. I want to randomly determine the amount of gold Jaddoc offers based on this starting amount. I'll re-purpose the NPC Statistics Table from Mythic GM Emulator 2e for this.
+
+```
+Does Jaddoc offer Grünfeld 80 gold pieces?
+
+Fate Check
+Odds: 50/50 +0
+CF: 5 +0
+2d10 = 6 + 7 = 13, Yes
+```
+
+> Jaddoc: "That sounds like a pretty good idea to me. If you can go out 'n' find where they live, and then report back with enough intelligence to inform a proper plan for removal, then I'd gladly pay you 80 gold coins."
+
+
+
+
+
