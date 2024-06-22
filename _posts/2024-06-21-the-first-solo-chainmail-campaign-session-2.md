@@ -5,6 +5,8 @@ date:   2024-06-21 20:00:00 -0600
 categories: chainmail od&d mgme2e
 published: true
 ---
+*New to the campaign? Here's a link to [Session 1]({% post_url 2024-06-13-the-first-solo-chainmail-campaign-session-1 %})!*
+
 Hail, and well met!
 
 I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games. This blog captures session two of *The First Solo Chainmail Campaign*, where I'm using the [Mythic Game Master Emulator](https://www.drivethrurpg.com/en/product/422929/mythic-game-master-emulator-second-edition?affiliate_id=3556094) to run an entirely solo [Original Dungeons & Dragons](https://www.drivethrurpg.com/en/product/28306/od-d-dungeons-dragons-original-edition-0e?affiliate_id=3556094) actual play using [Chainmail](https://www.drivethrurpg.com/en/product/17010/chainmail-rules-for-medieval-miniatures-0e?affiliate_id=3556094) to resolve combats!
