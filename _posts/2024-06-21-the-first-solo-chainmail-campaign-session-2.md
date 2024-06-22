@@ -106,6 +106,8 @@ This result makes sense given Jaddoc's position of leadership over a farming and
 
 Being from the south and having worked cattle myself, I am seriously enjoying writing cringe dialogue from Jaddoc the ranching dwarf's perspective.
 
+![Image of cow thievery]({% link docs/assets/cow-thievery.png %})
+
 An interesting aspect of the rules from Generating Compelling Backstories is that your backstory includes its own temporary lists of threads and characters considered separate from your adventure's lists. I'll add a new Thread to our Backstory Threads List to account for the kobold's mission here.
 
 ```
