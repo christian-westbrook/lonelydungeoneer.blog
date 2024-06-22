@@ -11,13 +11,13 @@ Hail, and well met!
 
 I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games. This blog captures session two of *The First Solo Chainmail Campaign*, where I'm using the [Mythic Game Master Emulator](https://www.drivethrurpg.com/en/product/422929/mythic-game-master-emulator-second-edition?affiliate_id=3556094) to run an entirely solo [Original Dungeons & Dragons](https://www.drivethrurpg.com/en/product/28306/od-d-dungeons-dragons-original-edition-0e?affiliate_id=3556094) actual play using [Chainmail](https://www.drivethrurpg.com/en/product/17010/chainmail-rules-for-medieval-miniatures-0e?affiliate_id=3556094) to resolve combats!
 
-This is a fairly detailed actual play. If you're new to the hobby, I want you to know that this level of detail is far from the typical notetaking that occurs during a solo roleplaying session. These actual plays are recorded in this format for entertainment purposes only. Please don't feel compelled to spell everything out like I have, or even to take notes at all!
+This is a fairly detailed actual play. If you're new to the hobby, I want you to know that this level of detail is far from the typical notetaking that occurs during a solo roleplaying session. These actual plays are recorded in this format for entertainment purposes only. Please don't feel compelled to spell everything out like I have, or even to take notes at all while playing!
 
 I sincerely hope you enjoy this collision of a modern solo roleplaying system with the original fantasy roleplaying game. Now, let's dive into the actual play! Happy delving, and **fight on!!** 
 
 *~ The Lonely Dungeoneer*
 
-*Support the blog on [Patreon](https://patreon.com/TheLonelyDungeoneer?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)! My first Patron can choose any RPG system for me to actual play! Many links are affiliate links that support the blog.*
+*Support the blog on [Patreon](https://patreon.com/TheLonelyDungeoneer?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)! My first Patron can choose any RPG system for me to actual play! Many of the links on this site are affiliate links that support the blog.*
 
 # Session 2
 
