@@ -3,18 +3,20 @@ layout: post
 title:  "The First Solo Chainmail Campaign! Session 1 - The Sapper's Suffering"
 date:   2024-06-13 23:00:00 -0600
 categories: session
-tags: od&d mgme2e
+tags: chainmail od&d mgme2e
 published: true
 ---
 Hail, and well met!
 
 I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games. This blog captures session two of *The First Solo Chainmail Campaign*, where I'm using the [Mythic Game Master Emulator](https://www.drivethrurpg.com/en/product/422929/mythic-game-master-emulator-second-edition?affiliate_id=3556094) to run an entirely solo [Original Dungeons & Dragons](https://www.drivethrurpg.com/en/product/28306/od-d-dungeons-dragons-original-edition-0e?affiliate_id=3556094) actual play using [Chainmail](https://www.drivethrurpg.com/en/product/17010/chainmail-rules-for-medieval-miniatures-0e?affiliate_id=3556094) to resolve combats!
 
-This is a fairly detailed actual play. If you're new to the hobby, I want you to know that this level of detail is far from the typical notetaking that occurs during a solo roleplaying session. These actual plays are recorded in this format for entertainment purposes. Please don't feel compelled to spell everything out like I have, or even to take notes at all!
+This is a fairly detailed actual play. If you're new to the hobby, I want you to know that this level of detail is far from the typical notetaking that occurs during a solo roleplaying session. These actual plays are recorded in this format for entertainment purposes only. Please don't feel compelled to spell everything out like I have, or even to take notes at all!
 
-I sincerely hope you enjoy this collision of a modern solo roleplaying system with the original fantasy roleplaying game. Now, let's dive into the actual play! Happy delving, and **fight on!**! 
+I sincerely hope you enjoy this collision of a modern solo roleplaying system with the original fantasy roleplaying game. Now, let's dive into the actual play! Happy delving, and **fight on!!** 
 
 *~ The Lonely Dungeoneer*
+
+*Support the blog on [Patreon](https://patreon.com/TheLonelyDungeoneer?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)! My first Patron can choose any RPG system for me to actual play! Many links are affiliate links that support the blog.*
 
 # Table of Contents
 
@@ -407,9 +409,9 @@ No, it wasn't a ranch hand, it was Jaddoc himself, and what's more, we've just r
 
 I'm reaching a natural stopping point here in real life as I roll that result, so I think that this is an excellent cliffhanger to end the session. In the next session we'll roll for the Random Event to find out what exactly happened to Jaddoc out in his fields. I sincerely hope that you've enjoyed the start of the campaign!
 
-If you'd like to support the blog, there are a few options for doing so. All of the links in this blog post have been affiliate links, so simply following any of those links will support the blog. I also have a [YouTube channel](https://www.youtube.com/@TheLonelyDungeoneer) and a [Patreon](https://www.patreon.com/TheLonelyDungeoneer) that you could check out.
+If you're interested in supporting the blog, you could do so either by clicking on one of the [affiliate links](https://www.drivethrurpg.com/en/publisher/480/word-mill-games/category/37897/mythic-magazine?affiliate_id=3556094) embedded throughout the site, or by visiting my [Patreon](https://www.patreon.com/TheLonelyDungeoneer) where I'm currently allowing the first Patron that subscribes to pick any RPG system for me to play and write a detailed textual actual play about! If you like video actual plays, you'll find even more solo roleplaying on my [YouTube channel](https://www.youtube.com/@TheLonelyDungeoneer).
 
-If you have any feedback or comments about the campaign, feel free to reach out any time at thelonelydungeoneer@proton.me!
+I'd love to hear any comments you might have about the campaign! Please feel free to reach out at any time using [thelonelydungeoneer@proton.me](mailto:thelonelydungeoneer@proton.me?subject=The First Solo Chainmail Campaign).
 
 Until we meet again, happy delving, and **fight on!!**
 
