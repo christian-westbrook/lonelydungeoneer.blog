@@ -21,7 +21,7 @@ I sincerely hope you enjoy this collision of a modern solo roleplaying system wi
 
 # Session 2
 
-When we last left Grünfeld, he was sitting in a dwarf's farmhouse kitchen trying to land a kobold removal job. Jaddoc, a former sapper (combat engineer) turned cattle rancher, is letting Grünfeld in on exactly what went down before he started looking for outside help. Now that I'm thinking about it, let's add this situation as our first Thread to the Threads List. In the same way that the Characters List provides Mythic with fuel for generating Random Events related to characters, the Threads List fuels Mythic with party goals that can be used later to form Random Events that help or hinder said goals.
+When we last left Grünfeld, he was sitting in a dwarf's farmhouse kitchen trying to land a kobold removal job. Jaddoc, a former sapper (combat engineer) turned cattle rancher, is letting Grünfeld in on exactly what went down before he started looking for outside help. Now that I'm thinking about it, let's add this situation as our first Thread to the Threads List! In the same way that the Characters List provides Mythic with fuel for generating Random Events related to characters, the Threads List fuels Mythic with goals that can be used later to form Random Events that will help or hinder said goals.
 
 ```
 Threads List
@@ -43,7 +43,7 @@ d100 = 61, Misuse
 d100 = 9, Building
 ```
 
-Okay, so while Jaddoc was out with the cows he caught kobolds raiding a barn and trying to lead cows away! This Random Event pairs perfectly with the current Backstory Event we're working on.
+Okay, so while Jaddoc was out with the cows, he caught kobolds raiding a barn and trying to lead cows away! I'm assuming that he owns so many cows that they're organized into different groups. This Random Event pairs perfectly with the current Backstory Event we're working on.
 
 ```
 Does Jaddoc have several barns spread across his property?
@@ -104,13 +104,13 @@ This result makes sense given Jaddoc's position of leadership over a farming and
 >
 > The barn doors were wide open 'fore we ever got there, and on the approach we noticed the cattle being led away by a group of, well, somethings! We weren't quite sure what they were at that point. 
 >
-> I was furious, o’ course, and we started rushin’ that way, but the little buggers started screeching and fired what I can only presume was a shot o’ warning. We heard the clanging of crossbows followed by the whistlin' of bolts, sounds that I couldn't mistake even if I wanted to, but it all fell well short of us and we hightailed it outta there. My cowsies scrambled as we fled, but the kobolds managed to nab several more of 'em.”
+> I was furious, o’ course, and we started rushin’ that way, but the little buggers started screeching and fired what I can only presume was a shot o’ warning. We heard the clanging of crossbows followed by the whistlin' of bolts, sounds that I couldn't mistake even if I wanted to, but it all fell well short of us 'n' we hightailed it outta there. My cowsies scrambled as we fled, but the kobolds managed to nab several more of 'em.”
 
-Being from the south and having worked cattle myself, I am seriously enjoying writing cringe dialogue from Jaddoc the ranching dwarf's perspective.
+Being from the south and having worked with cattle myself, I am seriously enjoying writing this cringe dialogue from Jaddoc the ranching dwarf's perspective.
 
 ![Image of cow thievery]({% link docs/assets/cow-thievery.png %})
 
-An interesting aspect of the rules from Generating Compelling Backstories is that your backstory includes its own temporary lists of threads and characters considered separate from your adventure's lists. I'll add a new Thread to our Backstory Threads List to account for the kobold's mission here.
+An interesting aspect of the rules from Generating Compelling Backstories is that your Backstory includes its own temporary lists of Threads and Characters considered to be separate from your adventure's lists. I'll add a new Thread to our Backstory Threads List to account for the kobold's mission here.
 
 ```
 Backstory Threads List
@@ -139,7 +139,7 @@ This especially makes sense if the kobolds were too focused on their goal of ste
 
 > Jaddoc: "Once we realized that it wasn't us, but the cattle rather, that the little figures were chasin', we crested a hill and tried to get a good look at 'em."
 
-Neither OD&D nor Chainmail describes or visualizes kobolds. In fact, each lumps kobolds together closely with goblins, for which no textual description of appearance is given, but we do, however, have access to art portraying a goblin in OD&D! You'll find a brief history of goblin art of the years in a recent [Grognardia blog post](https://grognardia.blogspot.com/2024/06/a-very-partial-pictorial-history-of_01836066687.html) if you're interested.
+Neither OD&D nor Chainmail describes or visualizes kobolds. In fact, each lumps kobolds together closely with goblins, for which no textual description of appearance is given, but we do, however, have access to art portraying a goblin in OD&D! You'll find a brief history of goblin art over the years in a recent [Grognardia blog post](https://grognardia.blogspot.com/2024/06/a-very-partial-pictorial-history-of_01836066687.html) if you're interested.
 
 ![goblin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF_iP1qR4aGkoF6y6l0x-FN6kZ5sVPTvhFbT0ZQCtgvX8ZNR0QskiyfjaBotKkqN_krokDXTSYoL96Au6qfkLZBe3UVJ9w8tH61Q0NPE_bW8gPJNvgYyWFHIRPdGDBO80ORRjXiGgGt-mGgMj_rv-emobzoj_AiGefMXPqawNF73p1inkHNin__6YhMWgC/s16000/oddgoblin.jpg)
 
@@ -169,13 +169,13 @@ CF: 5 +0
 
 This is an interesting Fate Check example because we rolled above the Exceptional Yes range of 18-20. The odds pushed our result one number past the exceptional range, leaving us with a regular Yes rather than with an Exceptional Yes. We can infer, then, that our goblin and kobold friends are indeed shaded green. 
 
-As another aside, there's a really good chapter on D&D and Chauvinism touching on the tendency of early roleplaying games to characterize adventurers as conquerors and enemy creatures as natives in the book [Muster: A Primer for War](https://www.drivethrurpg.com/en/product/413382/muster?affiliate_id=3556094). OD&D employs an alignment system that paints a fairly distinct "us vs. them" situation. Old school OD&D campaigns derived from wargames with clearly defined factions, but still left room for deviation.
+As another aside, there's a really good chapter on D&D and Chauvinism touching on the tendency of early roleplaying games to characterize adventurers as conquerors and enemy creatures as natives in the book [Muster: A Primer for War](https://www.drivethrurpg.com/en/product/413382/muster?affiliate_id=3556094). OD&D employs an alignment system that paints a fairly distinct "us vs. them" situation. Old school OD&D campaigns evolved from wargames where factions are clearly defined, but roleplaying games enable enriching deviation.
 
 Kobolds are aligned with Chaos. It's important to note that OD&D doesn't separate Lawful from Good and Chaos from Evil, so in this universe chaotic creatures can, for all intents and purposes, be considered evil. We will, of course, test these expectations from time to time using Mythic to allow for deviations from the standard.
 
-> Jaddoc: "They looked like ruddy goblins to us from up on the hill, but they were so short, the lot of  'em, that we concluded they must instead be bloody kobolds. There were probably a dozen of 'em, armed and glinting in the fadin' light, leading our hard work away from us. There weren't enough of us to stop 'em.'"
+> Jaddoc: "They looked like ruddy goblins to us from up on the hill, but they were so short, the lot of  'em, that we concluded they must instead be kobolds. There were probably a dozen of 'em, and mostly armed judgin' by how they glinted, leading our hard work away from us. There weren't enough of us to stop 'em.'"
 
-Chainmail makes it clear that dwarves absolutely *despise* goblins and kobolds, even suggesting that dwarves should *automatically charge* any goblins or kobolds within a given range with lethal intent. Jaddoc will naturally feel extreme distaste for these invaders. I'm curious, though, if this raid was a one time thing or not. It sounds like maybe it was a one off event, given that the backstory we were generating just promptly ended. Grünfeld is going to keep the social influence going with the next question.
+Chainmail makes it clear that dwarves absolutely *despise* goblins and kobolds, even suggesting that dwarves should *automatically charge* any goblins or kobolds within a given range with lethal intent. Jaddoc will naturally feel extreme distaste for these invaders. I'm curious, though, if this raid was a one time thing or not. It sounds like maybe it was a one off event, given that the backstory we were generating promptly ended after one attack. Grünfeld is going to keep the social influence going with the next question.
 
 > Grünfeld, shaking his head: "I can't imagine the financial loss that moment represents. Have you seen kobolds on your land since?"
 
@@ -219,7 +219,7 @@ CF: 5 +0
 2d10 = 10 + 7 = 17, Yes
 ```
 
-> Jaddoc: "No, we haven't seen 'em since, but they can't be too far off. I can't tell if it were just a trick o' the light, but I could swear I saw somethin' atop one of the northern hills one evening. It could've been a kobold checkin' to see if we've put cows back in the northern fields. 
+> Jaddoc: "No, we haven't seen 'em since, but they can't be too far off. I can't tell if it were just a trick o' the light, but I could swear I saw somethin' atop one of the northern hills one evening. It could've been a kobold checkin' in to see if we've put cows back in the northern fields yet. 
 >
 > I've been tryin' ta get more cattle in, to keep the business goin', but I couldn't stand it to just hand 'em over to the vermin again. I've been playin' it slow, keepin' my cowsies close to home."
 
@@ -227,7 +227,7 @@ I think this would be a good moment for Grünfeld to try for the job. I'll try t
 
 > Grünfeld: "I think it's a good call, keeping your livestock near the house for the time being. It sounds like these kobolds may be looking for easy targets and might avoid your house completely, but they'd probably be back soon if you let your cows roam.
 >
-> It also sounds to me like you're looking for more than hired hands to patrol and guard your land from kobolds indefinitely. You're looking for someone that can drive them out for good."
+> It also sounds to me like you're looking for more than hired hands to patrol and guard your land from kobolds indefinitely. You're looking for someone that can drive them out."
 
 I'll test Grünfeld's Charisma now to determine whether he managed to influence Jaddoc at all with his delivery of these lines. Neither Chainmail nor OD&D includes rules for performing ability checks, so I found a supplementary article from [the first ever issue of Dragon magazine](https://annarchive.com/files/Drmg001.pdf) entitled "How to use Non-Prime Requisite Character Attributes" that gives the earliest ability check I've been able to find.
 
@@ -257,16 +257,16 @@ Social Skill Modifier: -2
 Jaddoc New Disposition: 8, Passive
 ```
 
-We're also changing the context of the discussion here. We were discussing what's happened on Jaddoc's land with the kobolds, but now we're stepping into a discussion about finding a potential solution to the problem. This is exactly what Jaddoc wants and needs, so I imagine that he's really invested in this conversation. This makes me think that our Context Modifier should remain at +2, representing the conversation pushing Jaddoc towards action despite our social skill.
+We're also changing the context of the discussion here. We were discussing what's happened on Jaddoc's land with the kobolds thus far, but now we're stepping into a discussion about finding a potential solution to his problem. This is exactly what Jaddoc wants and needs, so I imagine that he's really invested in this conversation. This makes me think that our Context Modifier should remain at +2, representing the conversation pushing Jaddoc towards action despite our social skill.
 
 ```
 Jaddoc Context Modifier: +2
 Jaddoc Modified Disposition: 8 + 2 = 10, Passive
 ```
 
-Our successful Charisma Check has already had a tangible impact on the situation. Jaddoc's Modified Disposition has just shifted from Active to Passive, even given the new context for conversation. This is going to be great for future Behavior Checks. That's mechanically, of course. Narratively, this represents Grünfeld disarming Jaddoc's paranoia ever so slightly.
+Our successful Charisma Check has already had a tangible impact on the situation. Jaddoc's Modified Disposition has just shifted from Active to Passive, even given the new context for conversation. This is going to be great for future Behavior Checks. That's just mechanically, of course. Narratively, this represents Grünfeld disarming Jaddoc's paranoia ever so slightly.
 
-Finally, when we roll the next Behavior Check to see how Jaddoc will respond, we can apply a modifier anywhere from -2 to +2 to our result, effectively giving us the ability to choose a result within a range from the NPC Action Table. No matter what range is available to choose from, Jaddoc's next action has to somehow incorporate what we want.
+Finally, when we roll the next Behavior Check to see how Jaddoc will respond, we can apply a modifier anywhere from -2 to +2 to our result, effectively giving us the ability to choose a result within a range on the NPC Action Table. No matter what range is available to choose from, Jaddoc's next action has to somehow incorporate what we want.
 
 Altogether, these modifiers represent the benefits of success in social influence. I've found that it all works out really well in solo play. Let's make the final roll to see it in action.
 
@@ -285,7 +285,7 @@ Social Skill Modifier: -1 (Chosen)
 Behavior Check = 14 - 1 = 13, Gives Something
 ```
 
-> Jaddoc leans back in his seat, uncrossing his arms and resting one hand on the table. He, too, turns to look out the nearby windows at a group of cows happily chewing cud.
+> Jaddoc leans back in his seat, uncrossing his arms and resting one hand on the table. He, too, turns to look out the nearby window at a group of cows happily chewing cud.
 >
 > Jaddoc: "That's right, stranger. I want that piece of mind again that drew me to these hills in the first place."
 >
@@ -301,17 +301,7 @@ INT: 8
 
 Ability Check, Charisma
 d100 = 18, d4
-```
-
-Well, we're sure off to a great start here!
-
-```
 d4 = 4! * 8 = 32%
-```
-
-Woot, at least we rolled the highest possible result on our d4. Here goes nothing!
-
-```
 d100 = 57, No
 ```
 
@@ -332,7 +322,7 @@ Wowww that was so very close! But alas, Grünfeld has only his instincts as a mo
 >
 > I'm not especially familiar with how kobolds live and work, but if I could find and observe them for some short time, I'm confident that we could come up with a plan to remove them from the region. And, at any rate, this kind of information could prove valuable to you in defending your farm."
 
-We already know that Jaddoc is going to give us a job, so let's see if it's for an initial scouting effort before forming a proper plan.
+We already know that Jaddoc is going to give us a job, so let's see if it's for an initial scouting effort before forming a plan.
 
 ```
 Does Jaddoc hire Grünfeld to scout the kobolds in the region?
@@ -356,7 +346,7 @@ CF: 5 +0
 2d10 = 6 + 7 = 13, Yes
 ```
 
-> Jaddoc: "That sounds like a pretty good idea to me. If you can go out 'n' find where they live, and then report back with enough intelligence to inform a proper plan for their removal, then I'd gladly pay you 80 gold coins."
+> Jaddoc: "That sounds like a good idea to me. If you can go out 'n' find where they live, and then report back with enough intelligence to inform a proper plan for their removal, then I'd gladly pay you 80 gold coins."
 
 I don't think it would be too beneficial to haggle with Jaddoc here. I really want this job for Grünfeld to get a chance at exploring what the kobolds are like for pay, and we already know that Grünfeld himself is strapped for cash.
 
@@ -384,11 +374,11 @@ This is quite interesting! I'll replay the last few statements and roleplay my i
 >
 > Jaddoc produces a small clay oval with a design imprinted on one side, and places it on the table.
 >
-> Jadooc: "... with enough intelligence to inform a proper plan for their removal, then I'd gladly pay you 80 gold coins."
+> Jadooc: "...with enough intelligence to inform a proper plan for their removal, then I'd gladly pay you 80 gold coins."
 >
 > Grünfeld, now digging into his own pockets: "I accept your terms."
 >
-> Grünfeld places a similar clay oval with a different design on the table, carefully placing it above Jaddoc's, nearer to Jaddoc that Grünfeld. Each man then grabs the clay token produced by the other and stashes them away in their own pockets.
+> Grünfeld places a similar clay oval with a different design on the table, carefully placing it above Jaddoc's, nearer to Jaddoc than Grünfeld. Each man then grabs the clay token produced by the other, stashing them away in their own pockets.
 
 I envision these clay tokens to represent debts and agreements between individuals. Perhaps there is a limit to the number of tokens each person has available to trade away, restricting the possibility for excessive divisions of loyalty. The opposite token is a reminder of the agreement. This is really cool!
 
@@ -421,7 +411,7 @@ Oh wow, this makes me think that Jaddoc wants to nickel and dime Grünfeld into 
 
 This has me chuckling in real life, but I get the feeling that Grünfeld won't take it so cheerfully.
 
-> Grünfeld, dismissively: "Ah, I have no need for the undoubtably comfortable arrangements you would provide, good friend. I'll set out at once, and make camp where I find myself at dusk."
+> Grünfeld, dismissively: "Ah, I have no need for the undoubtably comfortable arrangements you could provide, friend. I'll set out at once and make camp where I find myself at dusk."
 >
 > Jaddoc, standing and pushing his chair back: "Very well, then, stranger. I sincerely look forward to the report of their situation on your return."
 >
@@ -458,7 +448,9 @@ d100 = 61, Number
 
 Perfect! This is Malix, god of fortune, and we've just triggered a random event! 
 
-> Grünfeld, standing and bowing: "Good day, Jaddoc. Malix keep you until my return."
+> Grünfeld, standing and bowing: "Good day, Jaddoc. Malix keep you."
+>
+> Jaddoc: "And you also!"
 
 Let's generate the event!
 
@@ -493,7 +485,7 @@ d100 = 95, Victory
 
 I know just how to interpret this! We need to head back to where the kobolds had their first victory.
 
-> Jaddoc, as he and Grünfeld walk towards the door: "You should start by searching the northeastern barn where we caught 'em sneakin' cowsies away. When we went back later to inspect the damage, there were clear tracks leading away from the barn. The grass may have grown up around it all, but we've had nary much rain since then, so I'd imagine that a cavalcade o' cows wouldn't be too tough to track even yet."
+> Jaddoc, as he and Grünfeld walk towards the door: "You should probably start by searching the northeastern barn where we caught 'em sneakin' cowsies away. When we went back to inspect the damage, there were clear tracks leading away from the barn. The grass may have grown up around it all, but we've had nary much rain since then, so I'd imagine that a cavalcade o' cows wouldn't be too tough to track even yet."
 >
 > Grünfeld, as the front door is opened for him: "A fine piece of information. I'll head there at once."
 >
@@ -512,7 +504,7 @@ CF: 5 +0
 
 Oh, well. I guess Jaddoc doesn't take in a deep and reassuring breath of flower scent.
 
-> ...taking a deep breath and noting the stench of perhaps too many cows huddled around Jaddoc's home.
+> ...taking a deep breath, and noting the stench of perhaps too many cows huddled around Jaddoc's home.
 
 I'm envisioning a series of dirt paths leading to different places around Jaddoc's farmlands.
 
