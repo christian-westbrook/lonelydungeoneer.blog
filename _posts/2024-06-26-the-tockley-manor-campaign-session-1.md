@@ -2,7 +2,8 @@
 layout: post
 title:  "The Tockley Manor Campaign! Session 1 - Road Rage"
 date:   2024-06-26 12:00:00 -0600
-categories: mythicrpg tockley
+categories: session
+tags: mythicrpg tockley
 published: true
 ---
 

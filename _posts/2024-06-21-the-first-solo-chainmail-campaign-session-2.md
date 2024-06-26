@@ -2,7 +2,8 @@
 layout: post
 title:  "The First Solo Chainmail Campaign! Session 2 - Cow Thievery"
 date:   2024-06-21 20:00:00 -0600
-categories: chainmail od&d mgme2e
+categories: session
+tags: chainmail od&d mgme2e
 published: true
 ---
 *New to the campaign? Here's a link to [Session 1]({% post_url 2024-06-13-the-first-solo-chainmail-campaign-session-1 %})!*
