@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm the Lonely Dungeoneer, and I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games.
+Hello, world!
 
-You can find me on YouTube at https://www.youtube.com/channel/@TheLonelyDungeoneer or on Patreon at https://www.patreon.com/TheLonelyDungeoneer
+I'm an experienced Mythicist documenting my experiences with solo roleplaying one session at a time. If you hang around here, expect to find meticulously documented actual play reports on real solo roleplaying sessions across a variety of roleplaying games. You can find even more of my solo actual plays on [YouTube](https://www.youtube.com/channel/@TheLonelyDungeoneer), and if you'd like to support the blog or channel, I also have a [Patreon](https://www.patreon.com/TheLonelyDungeoneer)!
+
+If you have ideas for games that I should play, or have any thoughts or feedback for me about a campaign or session, I'd love for you to reach out to me at [thelonelydungeoneer@proton.me](mailto:thelonelydungeoneer@proton.me)!
