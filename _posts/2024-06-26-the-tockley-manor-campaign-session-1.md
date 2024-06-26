@@ -21,8 +21,8 @@ I sincerely hope you enjoy this pairing of the original solo roleplaying system 
 
 # Table of Contents
 
-[Session 0](#session-0)
-[Session 1](#session-1)
+[Session 0](#session-0)  
+[Session 1](#session-1)  
 
 # Session 0
 
