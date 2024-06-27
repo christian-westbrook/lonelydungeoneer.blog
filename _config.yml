@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi! I'm the Lonely Dungeoneer, and I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+#twitter_username: jekyllrb
 github_username:  christian-westbrook
 
 # Build settings
