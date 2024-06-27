@@ -20,8 +20,8 @@ I sincerely hope you enjoy this collision of a modern solo roleplaying system wi
 
 # Table of Contents
 
-[Session 0](#session-0)
-[Session 1](#session-1)
+[Session 0](#session-0)  
+[Session 1 ](#session-1) 
 
 # Session 0
 
