@@ -9,7 +9,7 @@ published: true
 
 Hail, and well met!
 
-I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games. This blog captures session one of *The Tockley Manor Campaign*, where I'm using [Mythic Roleplaying](https://www.drivethrurpg.com/en/product/16173/mythic-role-playing?affiliate_id=3556094) to run the solo adventure module [The Secret of Tockley Manor](https://www.drivethrurpg.com/en/product/394527/mythic-magazine-compilation-2?affiliate_id=3556094) as first published in the Mythic Magazine article Solo Adventure Modules!
+I use this space to document my solitary travels through the infinite worlds of tabletop roleplaying games. This blog captures session one of *The Tockley Manor Campaign*, where I'm using [Mythic Roleplaying](https://www.drivethrurpg.com/en/product/16173/mythic-role-playing?affiliate_id=3556094) to run the solo adventure module The Secret of Tockley Manor as first published in the Mythic Magazine article [Solo Adventure Modules](https://www.drivethrurpg.com/en/product/394527/mythic-magazine-compilation-2?affiliate_id=3556094)!
 
 This is a fairly detailed actual play. If you're new to the hobby, I want you to know that this level of detail is far from the typical notetaking that occurs during a solo roleplaying session. These actual plays are recorded in this format for entertainment purposes only. Please don't feel compelled to spell everything out like I have, or even to take notes at all while playing!
 
